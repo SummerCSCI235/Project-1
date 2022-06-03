@@ -92,10 +92,11 @@ The `Car` class must contain the following methods, knowing the information abov
    // adds a string to list_of_bumper_stickers_ 
    void addBumperStickers(std::string sticker);
 
-   // prints out each sticker from list_of_bumper_stickers_ 
+   // prints out each sticker on its own line from list_of_bumper_stickers_ 
    void getBumperStickers();
 ```
-   And for the private members it should only contain a vector of strings, that will be named as **vector<std::string> list_of_bumper_stickers_**
+   And for the private members it should only contain a vector of strings, that will be named as 
+   **vector<std::string> list_of_bumper_stickers_**
 
 The `Motorcycle` class represents an Vehicle object with the following specifications:
 - It has 2 wheels
