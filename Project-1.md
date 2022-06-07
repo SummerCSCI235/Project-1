@@ -30,7 +30,7 @@ To start off this project, you need to create a `Vehicle` class. Through inherit
 ---
 ![welding_glue_meme](./Content/superglue.png)
 ## Task 1: Honey, where is my super glue? 
-Define and implement the abstract `Vehicle.hpp` and `Vehicle.cpp` class. 
+Define and implement the `Vehicle.hpp` and `Vehicle.cpp` class. 
 
 The Vehicle class will have these member variables which should be private: 
 
